@@ -1,1 +1,2 @@
 # testFirstProject
+Projet de test, me permettant de mettre en pratique ce que j'ai appris dans la formation git sur openclassrooms : https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github?status=published
